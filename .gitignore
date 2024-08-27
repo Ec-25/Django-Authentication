@@ -1,0 +1,11 @@
+# Dirs
+.vscode/
+env/
+__pycache__/
+migrations/
+temp/
+
+# Files
+.env
+*.sqlite3
+*.bak
